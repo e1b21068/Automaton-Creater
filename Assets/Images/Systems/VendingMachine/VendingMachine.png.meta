@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 82cad02d55e7810439025a3dbd72fa06
+guid: 56cc8b60269e1b542ab9d154d8dd91a3
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7370377198007422738
-    second: traffic_light_0
+      213: 8265045834036228682
+    second: VendingMachine_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -126,13 +126,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: traffic_light_0
+      name: VendingMachine_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 799
-        height: 782
+        x: 109
+        y: 29
+        width: 281
+        height: 441
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -140,8 +140,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ee0f0240df827b990800000000000000
-      internalID: -7370377198007422738
+      spriteID: a423d0e556753b270800000000000000
+      internalID: 8265045834036228682
       vertices: []
       indices: 
       edges: []
@@ -156,8 +156,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      traffic_light_0: -7370377198007422738
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
