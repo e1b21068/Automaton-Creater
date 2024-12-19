@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 3780555c21497f946b865ad6c9497d43
+guid: bb431e8f7d1cc7142a31d110fd773ab7
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4585031799566294454
-    second: TrafficLight_0
+      213: 1477800831964700239
+    second: "\u67A0\u30D9\u30FC\u30B9_0"
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -126,13 +126,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: TrafficLight_0
+      name: "\u67A0\u30D9\u30FC\u30B9_0"
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 799
-        height: 782
+        width: 220
+        height: 220
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -140,8 +140,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a422bfeeed1be50c0800000000000000
-      internalID: -4585031799566294454
+      spriteID: f4e5806e604328410800000000000000
+      internalID: 1477800831964700239
       vertices: []
       indices: 
       edges: []
@@ -156,8 +156,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      TrafficLight_0: -4585031799566294454
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
