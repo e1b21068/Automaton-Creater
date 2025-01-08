@@ -34,7 +34,7 @@ namespace Images.Objects
             dragAndDrop.IsBeingAbsorbed = true;
 
             // 中心に近づける
-            while (Vector3.Distance(dragAndDrop.transform.position, transform.position) > 0.1f)
+            while (Vector3.Distance(dragAndDrop.transform.position, transform.position) > 0)
             {
                 // ドラッグされ始めたら吸い込みキャンセル
                 if (!dragAndDrop.IsBeingAbsorbed) yield break;
