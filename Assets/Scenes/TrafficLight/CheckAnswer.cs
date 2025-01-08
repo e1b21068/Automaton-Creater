@@ -1,12 +1,17 @@
 using UnityEngine;
+using UnityEngine.UI;
 using System.Collections.Generic;
+using System;
 
 namespace Scenes.TrafficLight
 {
-    public class ObjectPositionFetcher : MonoBehaviour
+    public class CheckAnswer : MonoBehaviour
     {
         // オブジェクトの位置を取得するメソッド
-        public void OnClickEvent()
+        public GameObject popupWindow;
+        public Text popupText;
+
+        public void ObjectCheck()
         {
             // 各色のエリアとシグナルを格納する辞書
             var objects = new Dictionary<string, GameObject>();
@@ -38,14 +43,16 @@ namespace Scenes.TrafficLight
 
             if (redCorrect && yellowCorrect && blueCorrect)
             {
-                Debug.Log("正解です！");
+                ShowPopup("正解です！");
+                //return true;
             }
             else
             {
-                Debug.Log("不正解です。");
+                ShowPopup("不正解です。");
                 if (!redCorrect) Debug.Log("RedAreaとRedSignalの位置が一致していません。");
                 if (!yellowCorrect) Debug.Log("YellowAreaとYellowSignalの位置が一致していません。");
                 if (!blueCorrect) Debug.Log("BlueAreaとBlueSignalの位置が一致していません。");
+                //return false;
             }
         }
 
@@ -57,6 +64,17 @@ namespace Scenes.TrafficLight
                 return object1.transform.position == object2.transform.position;
             }
             return false; // どちらかのオブジェクトが見つからない場合はfalse
+        }
+
+        private void ShowPopup(string message)
+        {
+            popupText.text = message;
+            popupWindow.SetActive(true);
+        }
+
+        public void HidePopup()
+        {
+            popupWindow.SetActive(false);
         }
     }
 }

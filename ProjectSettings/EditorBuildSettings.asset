@@ -9,7 +9,7 @@ EditorBuildSettings:
     path: Assets/Scenes/TitleScene.unity
     guid: 7e265e9e6b200dd4f8560f642a9f2ee7
   - enabled: 1
-    path: Assets/Scenes/CraftingScene.unity
+    path: Assets/Scenes/VendingMachineScene.unity
     guid: 5da4cd0b27313624c9ea988ce5eb06ff
   - enabled: 1
     path: Assets/Scenes/FeedbackScene.unity
@@ -17,5 +17,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SummaryScene.unity
     guid: fdf82bfe5ba272d4a9542690cc9461a1
+  - enabled: 1
+    path: Assets/Scenes/TrafficLight/TrafficLightScene.unity
+    guid: 280dd315123b4774c8b1bd5081d93a21
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
