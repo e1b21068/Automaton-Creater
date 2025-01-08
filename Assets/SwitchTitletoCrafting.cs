@@ -5,6 +5,6 @@ public class SwitchTitletoCrafting : MonoBehaviour
 {
     public void SwitchSceneTitletoCraft()
     {
-        SceneManager.LoadScene("CraftingScene", LoadSceneMode.Single);
+        SceneManager.LoadScene("TrafficLightScene", LoadSceneMode.Single);
     }
 }
