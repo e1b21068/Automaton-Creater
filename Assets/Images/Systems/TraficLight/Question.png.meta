@@ -1,0 +1,1265 @@
+fileFormatVersion: 2
+guid: 042383f72c814da4d980ea123d6c6fbf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8457688128998239237
+    second: Question_0
+  - first:
+      213: 5264470450283523454
+    second: Question_1
+  - first:
+      213: -2118357763940501036
+    second: Question_2
+  - first:
+      213: -208590856747767203
+    second: Question_3
+  - first:
+      213: -2260759687368023776
+    second: Question_4
+  - first:
+      213: -522718992281810172
+    second: Question_5
+  - first:
+      213: 4113036586092281464
+    second: Question_6
+  - first:
+      213: -6413557466927958345
+    second: Question_7
+  - first:
+      213: 2179320902228902531
+    second: Question_8
+  - first:
+      213: 6136598292294479091
+    second: Question_9
+  - first:
+      213: -8701176995934370452
+    second: Question_10
+  - first:
+      213: -5830552761746040741
+    second: Question_11
+  - first:
+      213: 4980112112172647645
+    second: Question_12
+  - first:
+      213: 1029111856748005746
+    second: Question_13
+  - first:
+      213: -8233525540885952151
+    second: Question_14
+  - first:
+      213: -6112221575025156989
+    second: Question_15
+  - first:
+      213: 2733006870966846466
+    second: Question_16
+  - first:
+      213: 5008222645943853697
+    second: Question_17
+  - first:
+      213: 7398598314660859950
+    second: Question_18
+  - first:
+      213: 183001395951493090
+    second: Question_19
+  - first:
+      213: 5822669776101103430
+    second: Question_20
+  - first:
+      213: -4567064073253242516
+    second: Question_21
+  - first:
+      213: -8673823481529874009
+    second: Question_22
+  - first:
+      213: -3543411560951386692
+    second: Question_23
+  - first:
+      213: -7475344205061229647
+    second: Question_24
+  - first:
+      213: 6763331016732987567
+    second: Question_25
+  - first:
+      213: -2028315796455841948
+    second: Question_26
+  - first:
+      213: -4492983705489205939
+    second: Question_27
+  - first:
+      213: -8401713764386712074
+    second: Question_28
+  - first:
+      213: 6355426206211550499
+    second: Question_29
+  - first:
+      213: 3227114185665879310
+    second: Question_30
+  - first:
+      213: 1980029511427818004
+    second: Question_31
+  - first:
+      213: 3921868633839600128
+    second: Question_32
+  - first:
+      213: -4308200358197158166
+    second: Question_33
+  - first:
+      213: -7513337200630394657
+    second: Question_34
+  - first:
+      213: -7065025843943682640
+    second: Question_35
+  - first:
+      213: 9064334384388043663
+    second: Question_36
+  - first:
+      213: 7613701742906480689
+    second: Question_37
+  - first:
+      213: -2835390193045660176
+    second: Question_38
+  - first:
+      213: 2269960031098881580
+    second: Question_39
+  - first:
+      213: 8200613127446827116
+    second: Question_40
+  - first:
+      213: -5292006907722922045
+    second: Question_41
+  - first:
+      213: 8897323619097089600
+    second: Question_42
+  - first:
+      213: -8265414246757921808
+    second: Question_43
+  - first:
+      213: 188938957614225032
+    second: Question_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Question_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 77
+        width: 52
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c6af5ea8ebf5570800000000000000
+      internalID: 8457688128998239237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Question_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 52
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7da0bf6bf72f0940800000000000000
+      internalID: 5264470450283523454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Question_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 51
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d9b22556d41a92e0800000000000000
+      internalID: -2118357763940501036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Question_3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 47
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5aa72098bfea1df0800000000000000
+      internalID: -208590856747767203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Question_4
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 64
+        width: 13
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 021e7e7da0b20a0e0800000000000000
+      internalID: -2260759687368023776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Question_5
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 72
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b41b398ddeeb8f0800000000000000
+      internalID: -522718992281810172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Question_6
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 47
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e3736bbf0741930800000000000000
+      internalID: 4113036586092281464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Question_7
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 51
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6743dd6777ef6a0800000000000000
+      internalID: -6413557466927958345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Question_8
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 47
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38200f460d08e3e10800000000000000
+      internalID: 2179320902228902531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Question_9
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 64
+        width: 13
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc2b7d32a3992550800000000000000
+      internalID: 6136598292294479091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Question_10
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 72
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65088d7f953f3780800000000000000
+      internalID: -8701176995934370452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Question_11
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 47
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5854ff9727b51fa0800000000000000
+      internalID: -5830552761746040741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Question_12
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 51
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4cbab8499ec1540800000000000000
+      internalID: 4980112112172647645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Question_13
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 51
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2798b9ff7c3284e00800000000000000
+      internalID: 1029111856748005746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Question_14
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 47
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9690366c424acbd80800000000000000
+      internalID: -8233525540885952151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Question_15
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 64
+        width: 13
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c95288cd60d2ba0800000000000000
+      internalID: -6112221575025156989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Question_16
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 72
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2044ea0e4479de520800000000000000
+      internalID: 2733006870966846466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Question_17
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 52
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182ec8736f7c08540800000000000000
+      internalID: 5008222645943853697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Question_18
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 47
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e201a2db7f91da660800000000000000
+      internalID: 7398598314660859950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Question_19
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 77
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2efd61fccc62a8200800000000000000
+      internalID: 183001395951493090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Question_20
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 47
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 647d8e0cf474ec050800000000000000
+      internalID: 5822669776101103430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Question_21
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 81
+        width: 35
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69ba473c678e90c0800000000000000
+      internalID: -4567064073253242516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Question_22
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 52
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a948fadf7360a780800000000000000
+      internalID: -8673823481529874009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Question_23
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 50
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbdea7885f543dec0800000000000000
+      internalID: -3543411560951386692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Question_24
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 70
+        width: 47
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3fc833d0e324890800000000000000
+      internalID: -7475344205061229647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Question_25
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 49
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa050ced9bd2cdd50800000000000000
+      internalID: 6763331016732987567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Question_26
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 53
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f9fe39789f9d3e0800000000000000
+      internalID: -2028315796455841948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Question_27
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 49
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4592bcef17b5a1c0800000000000000
+      internalID: -4492983705489205939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Question_28
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 79
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5583178dd176b80800000000000000
+      internalID: -8401713764386712074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Question_29
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 53
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32da2794672033850800000000000000
+      internalID: 6355426206211550499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Question_30
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 49
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d1d3ef04309cc20800000000000000
+      internalID: 3227114185665879310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Question_31
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 80
+        width: 49
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4120279995a7a7b10800000000000000
+      internalID: 1980029511427818004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Question_32
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 47
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00281c75eb64d6630800000000000000
+      internalID: 3921868633839600128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Question_33
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 49
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee927c99923634c0800000000000000
+      internalID: -4308200358197158166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Question_34
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 51
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd092b69f934bb790800000000000000
+      internalID: -7513337200630394657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Question_35
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 49
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd48c25d6cf3fd90800000000000000
+      internalID: -7065025843943682640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Question_36
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 47
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83fec2091cfacd70800000000000000
+      internalID: 9064334384388043663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Question_37
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 47
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13896b3656d49a960800000000000000
+      internalID: 7613701742906480689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Question_38
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 44
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd13e754aba6a8d0800000000000000
+      internalID: -2835390193045660176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Question_39
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 47
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26cbfb1f94808f10800000000000000
+      internalID: 2269960031098881580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Question_40
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 44
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c609fd1d03e6ec170800000000000000
+      internalID: 8200613127446827116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Question_41
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 47
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7034471c30f86b0800000000000000
+      internalID: -5292006907722922045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Question_42
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 47
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04699f701b4a97b70800000000000000
+      internalID: 8897323619097089600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Question_43
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 47
+        width: 53
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb8a8cd8895b4d80800000000000000
+      internalID: -8265414246757921808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Question_44
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 46
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88614dc1bfe3f9200800000000000000
+      internalID: 188938957614225032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Question_0: 8457688128998239237
+      Question_1: 5264470450283523454
+      Question_10: -8701176995934370452
+      Question_11: -5830552761746040741
+      Question_12: 4980112112172647645
+      Question_13: 1029111856748005746
+      Question_14: -8233525540885952151
+      Question_15: -6112221575025156989
+      Question_16: 2733006870966846466
+      Question_17: 5008222645943853697
+      Question_18: 7398598314660859950
+      Question_19: 183001395951493090
+      Question_2: -2118357763940501036
+      Question_20: 5822669776101103430
+      Question_21: -4567064073253242516
+      Question_22: -8673823481529874009
+      Question_23: -3543411560951386692
+      Question_24: -7475344205061229647
+      Question_25: 6763331016732987567
+      Question_26: -2028315796455841948
+      Question_27: -4492983705489205939
+      Question_28: -8401713764386712074
+      Question_29: 6355426206211550499
+      Question_3: -208590856747767203
+      Question_30: 3227114185665879310
+      Question_31: 1980029511427818004
+      Question_32: 3921868633839600128
+      Question_33: -4308200358197158166
+      Question_34: -7513337200630394657
+      Question_35: -7065025843943682640
+      Question_36: 9064334384388043663
+      Question_37: 7613701742906480689
+      Question_38: -2835390193045660176
+      Question_39: 2269960031098881580
+      Question_4: -2260759687368023776
+      Question_40: 8200613127446827116
+      Question_41: -5292006907722922045
+      Question_42: 8897323619097089600
+      Question_43: -8265414246757921808
+      Question_44: 188938957614225032
+      Question_5: -522718992281810172
+      Question_6: 4113036586092281464
+      Question_7: -6413557466927958345
+      Question_8: 2179320902228902531
+      Question_9: 6136598292294479091
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
