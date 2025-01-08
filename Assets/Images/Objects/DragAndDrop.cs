@@ -23,7 +23,7 @@ namespace Images.Objects
             // ドラッグ開始時に明示的にリセット
             boxFlag = false;
             IsReturning = false;
-            IsBeingAbsorbed = false;  // ★ これを追加する
+            IsBeingAbsorbed = false;
 
             _offset = transform.position - GetMouseWorldPos();
             _isDragging = true;
